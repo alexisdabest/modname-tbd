@@ -1,0 +1,23 @@
+[
+{
+  "modid": "motools",
+  "name": "more tools",
+  "description": "adds more tools",
+  "version": "0.0.1",
+  "mcversion": "1.5.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "alexisdabest",
+	
+    
+  ],
+  "credits": "See thread",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
